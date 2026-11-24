@@ -1,4 +1,4 @@
-# 🎨 Maida Khan | Graphic Design Portfolio
+# Maida Khan | Graphic Design Portfolio
 
 Welcome to my Graphic Design Portfolio!
 
@@ -8,7 +8,7 @@ This repository showcases selected graphic design work created for organizations
 
 ---
 
-## 📁 Portfolio Categories
+## Portfolio Categories
 
 ### 1. Bronto Brains
 **Product Graphics | E-commerce | Promotional Designs**
@@ -73,7 +73,7 @@ Visual content designed around trending topics, audience interests and platform 
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
 - Graphic Design
 - Social Media Design
@@ -85,7 +85,7 @@ Visual content designed around trending topics, audience interests and platform 
 - Healthcare & Educational Content
 - UI/UX Design
 
-## 🔗 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Maddy Khanam](https://linkedin.com/in/maddy-khanam-962189302)
 - **GitHub:** [MaidaAdeelKhan](https://github.com/MaidaAdeelKhan)
